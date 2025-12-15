@@ -1,0 +1,2 @@
+# Optimization-Using-Fuzzy-Hashing-and-Genetic-Algorithm
+mSMD optimizes virtual machine performance using fuzzy hashing and genetic algorithms for memory deduplication. Our two-phase system clusters applications offline, then identifies similar pages online using MSPT. Results show 25% memory savings, 27% fewer comparisons, and improved response times across .NET, Apache, MySQL, and Android workloads.
