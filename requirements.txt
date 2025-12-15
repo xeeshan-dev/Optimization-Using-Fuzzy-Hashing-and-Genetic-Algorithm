@@ -1,0 +1,35 @@
+# Python Dependencies for mSMD Implementation
+# Install with: pip install -r requirements.txt
+
+# Core Scientific Computing
+numpy==1.21.0
+pandas==1.3.0
+scipy==1.7.0
+
+# Fuzzy Hashing (for similarity detection)
+ssdeep-python==3.4
+
+# Genetic Algorithm Framework
+deap==1.3.1
+
+# Data Visualization
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# Utilities
+json5==0.9.6
+python-dateutil==2.8.2
+
+# Optional: For performance monitoring
+psutil==5.8.0
+
+# Optional: For data serialization
+pyYAML==5.4.1
+
+# Optional: For testing
+pytest==6.2.5
+pytest-cov==2.12.1
+
+# Optional: For documentation
+sphinx==4.0.0
+sphinx-rtd-theme==0.5.2
